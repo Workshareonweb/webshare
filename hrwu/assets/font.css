@@ -1,0 +1,40 @@
+@font-face {
+    font-family: KhmerOS;
+    src: url(../font/KhmerOS.ttf);
+}
+@font-face {
+	font-family: KhmerOSFreehand;
+	src:url(../font/KhmerOSfasthand.ttf);
+}
+@font-face {
+	font-family: KhmerOSbokor;
+	src: URL(../font/KhmerOSbokor.ttf);
+}
+@font-face {
+	font-family: KhmerOS_muollight;
+	src: URL(../font/KhmerOS_muollight.ttf);
+}
+
+@font-face {
+	font-family: Angkor;
+	src: URL(../font/Angkor.ttf);
+	}
+@font-face {
+	font-family: Hanuman;
+	src:url(../font/Hanuman.ttf);
+	}
+	
+@font-face {
+	font-family: DaunTeav;
+	src:URl(../font/DaunTeav.ttf);
+}
+
+@font-face {
+	font-family: Kh-Battambang;
+	src:URl(../font/Kh-Battambang.ttf);
+}
+
+@font-face {
+	font-family: KhmerOSSiemreap;
+	src:URl(../font/KhmerOSSiemreap.ttf);
+}
